@@ -29,7 +29,7 @@ What if database replication could be blazing fast, truly peer-to-peer, and scal
 
 🔐 We won’t reveal the algorithm just yet, but here’s the catch – it’s NOT your typical consensus-based replication. No Raft, no Paxos, no slowdowns.
 
-![Leap Day](images/IMG_0810.JPG)
+![image](images/IMG_0810.JPG)
 
 # Understanding Peer-to-Peer (P2P) Database Replication
 
