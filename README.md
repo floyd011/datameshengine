@@ -1,10 +1,7 @@
-[Home](README.md)
 
 # Next-Gen P2P Database Replication – Infinite Scale!
 
 What if database replication could be blazing fast, truly peer-to-peer, and scalable without limits? No matter how many nodes sync, performance remains lightning-fast. Sounds impossible? We made it happen! 🔥
-
-[Why Choose P2P Replication](#why-choose-p2p-replication).  [Project](drugi.md)
 
 ## Supported Databases? ALL Major Players!
 
