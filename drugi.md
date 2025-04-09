@@ -1,3 +1,5 @@
+[Home](README.md) / [Projects](drugi.md)
+
 # Ballerina Observability Starter Kit
 
 Ovaj starter kit sadrži osnovnu Ballerina aplikaciju koja je integrisana sa Prometheus-om i Grafana-om za praćenje metrika. Takođe uključuje Helm chart za jednostavno postavljanje na Kubernetes klaster.
